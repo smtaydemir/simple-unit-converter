@@ -1,0 +1,23 @@
+{
+  "name": "simple-unit-converter",
+  "version": "0.0.1",
+  "description": "Simple Unit (px,pt,em ..eg) Converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "Samet Aydemir",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smtaydemir/simple-unit-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smtaydemir/simple-unit-converter/issues"
+  },
+  "homepage": "https://github.com/smtaydemir/simple-unit-converter",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
